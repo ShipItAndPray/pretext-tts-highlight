@@ -1,5 +1,9 @@
 # @shipitandpray/pretext-tts-highlight
 
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://shipitandpray.github.io/pretext-tts-highlight/) [![GitHub](https://img.shields.io/github/stars/ShipItAndPray/pretext-tts-highlight?style=social)](https://github.com/ShipItAndPray/pretext-tts-highlight)
+
+> **[View Live Demo](https://shipitandpray.github.io/pretext-tts-highlight/)**
+
 Karaoke-style word highlighting for text-to-speech. No DOM measurement. Smooth on resize.
 
 ## Install
